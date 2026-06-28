@@ -1,0 +1,6 @@
+{
+  "name": "Task Planner",
+  "description": "An elegant, interactive, and modern offline Task and Note Planner app built with Kotlin, Jetpack Compose, and Room. Supports dual languages (Bengali & English).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
